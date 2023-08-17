@@ -1,0 +1,61 @@
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\appsettings.json
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.staticwebassets.runtime.json
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.exe
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.deps.json
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.runtimeconfig.json
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.dll
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.pdb
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.AssemblyReference.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.AssemblyInfoInputs.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.AssemblyInfo.cs
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.CoreCompileInputs.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.RazorAssemblyInfo.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.RazorAssemblyInfo.cs
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\bundle\MotivatingSaying.styles.css
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\projectbundle\MotivatingSaying.bundle.scp.css
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.dll
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\refint\MotivatingSaying.dll
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.pdb
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.genruntimeconfig.cache
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\ref\MotivatingSaying.dll
+C:\Users\maher\source\repos\MotivatingSaying\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maher\source\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\appsettings.Development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\appsettings.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.staticwebassets.runtime.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.exe
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.deps.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.runtimeconfig.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\MotivatingSaying.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.AssemblyReference.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.AssemblyInfoInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.AssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.CoreCompileInputs.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.MvcApplicationPartsAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.RazorAssemblyInfo.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.RazorAssemblyInfo.cs
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets\msbuild.MotivatingSaying.Microsoft.AspNetCore.StaticWebAssets.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets\msbuild.build.MotivatingSaying.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MotivatingSaying.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MotivatingSaying.props
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets.pack.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets.build.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\staticwebassets.development.json
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\bundle\MotivatingSaying.styles.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\scopedcss\projectbundle\MotivatingSaying.bundle.scp.css
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.csproj.CopyComplete
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\refint\MotivatingSaying.dll
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.pdb
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\MotivatingSaying.genruntimeconfig.cache
+D:\IT Learning\Full Stack Web Developer\Project\2- Backend - C#\repos\MotivatingSaying\obj\Debug\net6.0\ref\MotivatingSaying.dll
